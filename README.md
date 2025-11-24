@@ -46,9 +46,9 @@ User signup/login, service booking, booking management, role-based authenticatio
 
 ### **2️⃣ Personal Portfolio Website**
 <a href="https://https://porfolio-three-sage.vercel.app/">
-  <img src="https://raw.githubusercontent.com/chepyego/chepyego/main/projects/portfolio.png" 
-       width="300"/>
-</a>
+  <img src[=["https://raw.githubusercontent.com/chepyego/chepyego/main/projects/portfolio.png" 
+       width="300"](https://github.com/chepyego/chepyego/issues/1#issue-3660437999)/>
+</a>](https://github.com/chepyego/chepyego/issues/1#issue-3660437999) />
 
 **What it does:**  
 Showcases my projects, skills, services, and contact form.
