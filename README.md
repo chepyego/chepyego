@@ -31,37 +31,28 @@ I love:
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-## 🌟 Top 3 Projects
+### 🔥 Top Projects
 
-### **1️⃣ Nail Palour Booking System**
-<a href="https://nail-palour.onrender.com/">
-  <img src="https://raw.githubusercontent.com/chepyego/chepyego/main/projects/nailpalour.png" 
-       width="300" />
-</a>
+<table>
+  <tr>
+    <td>
+      <a href="https://yourprojecturl.com">
+        <img src="https://your-image-url-1.png" width="300px](https://github.com/user-attachments/assets/46ba97f3-5601-4a3d-94c7-1ac9811df26d")" />
+      </a>
+      <br />
+      <b>Project Name</b> – Short description.
+    </td>
+    <td>
+      <a href="https://yourprojecturl.com">
+        <img src=""https://github.com/user-attachments/assets/41155e01-0374-45f6-a7ae-32a1bcf18ab7 />
+      </a>
+      <br />
+      <b>Project Name</b> – Short description.
+    </td>
+  </tr>
+</table>
 
-**What it does:**  
-User signup/login, service booking, booking management, role-based authentication — payment integration coming soon.
-
----
-
-### **2️⃣ Personal Portfolio Website**
-<a href="https://https://porfolio-three-sage.vercel.app/">
-  <img src[=["https://raw.githubusercontent.com/chepyego/chepyego/main/projects/portfolio.png" 
-       width="300"](https://github.com/chepyego/chepyego/issues/1#issue-3660437999)/>
-</a>](https://github.com/chepyego/chepyego/issues/1#issue-3660437999) />
-
-**What it does:**  
-Showcases my projects, skills, services, and contact form.
-
----
-
-### **3️⃣ Stock Management app**
-<a href="https://https://group-69-chepyego.vercel.app/">
-  <img src="https://raw.githubusercontent.com/chepyego/chepyego/main/projects/blog.png" 
-       width="300"/>
-</a>
-
-**What it does:**  
-This was my capstone project, which I completed while learning frontend skills. It is a web application used to manage stock and monitor profit and loss.
-
+<img width="1910" height="994" alt="Image" src="https://github.com/user-attachments/assets/46ba97f3-5601-4a3d-94c7-1ac9811df26d" />
+<img width="1913" height="1000" alt="Image" src="https://github.com/user-attachments/assets/41155e01-0374-45f6-a7ae-32a1bcf18ab7" />
+<img width="1913" height="1000" alt="Image" src="https://github.com/user-attachments/assets/f1bfef64-a40d-41af-8aa7-3224c38e33f7" />
 
