@@ -42,7 +42,7 @@ I love:
       </a>
       <br />
       <b>Nail Palour</b> <br>
-      <small>A full Rails 8  booking platform for nail technicians, soon expanding to salons, yoga trainers, and coaches</small>
+      <small> booking platform built using  Rails 8 for nail technicians</small>
     </td>
     <td>
       <a href="https://group-69-chepyego.vercel.app/" target="_blank">
