@@ -1,5 +1,30 @@
-# 💫 About Me:
-I'm a full-stack developer with a strong focus on Ruby on Rails and modern frontend tools. I enjoy turning ideas into real, working products — from backend logic to polished UI.<br><br>I'm currently building and improving full-stack projects that solve real problems, especially in the beauty & wellness industry.
+<p align="center">
+  <img src="https://github.com/chepyego/chepyego/blob/main/profile.jpg" 
+       width="180" 
+       style="border-radius: 50%;" 
+       alt="Your photo"/>
+</p>
+
+<h1 align="center">✨ Hi, I'm Jemimah Chepyego</h1>
+
+<p align="center">
+  Ruby on Rails Developer • Frontend Enthusiast • Problem Solver <br/>
+  Passionate about building beautiful UIs, strong backend systems, and impactful products.  
+  Navigating tech after maternity break
+</p>
+
+
+### 🚀 About Me
+
+I'm a Ruby on Rails Developer who enjoys building real-world applications that solve practical problems.  
+I’m currently working on a **booking system for nail technicians**, expanding it to support yoga trainers, salons, and coaches.  
+
+I love:
+- 🛠 Building full-stack apps with Rails  
+- 🎨 Crafting responsive frontends  
+- 🔗 Integrating APIs  
+- 📚 Sharing what I learn on LinkedIn [https://www.linkedin.com/in/jemimah-chepyego/], building and improving full-stack projects that solve real problems, especially in the beauty & wellness industry.
+
 
 
 
@@ -18,3 +43,36 @@ I'm a full-stack developer with a strong focus on Ruby on Rails and modern front
 [![](https://visitcount.itsvg.in/api?id=chepyego&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## 🌟 Top 3 Projects
+
+### **1️⃣ Nail Palour Booking System**
+<a href="https://nail-palour.onrender.com/">
+  <img src="https://raw.githubusercontent.com/chepyego/chepyego/main/projects/nailpalour.png" 
+       width="300" />
+</a>
+
+**What it does:**  
+User signup/login, service booking, booking management, role-based authentication — payment integration coming soon.
+
+---
+
+### **2️⃣ Personal Portfolio Website**
+<a href="https://https://porfolio-three-sage.vercel.app/">
+  <img src="https://raw.githubusercontent.com/chepyego/chepyego/main/projects/portfolio.png" 
+       width="300"/>
+</a>
+
+**What it does:**  
+Showcases my projects, skills, services, and contact form.
+
+---
+
+### **3️⃣ Stock Management app**
+<a href="https://https://group-69-chepyego.vercel.app/">
+  <img src="https://raw.githubusercontent.com/chepyego/chepyego/main/projects/blog.png" 
+       width="300"/>
+</a>
+
+**What it does:**  
+This was my capstone project that I did when I was learning frontend skills. It is a web application used to manage stock and monitor profit and loss.
