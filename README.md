@@ -35,29 +35,50 @@ I love:
 
 <table>
   <tr>
-    <td>
-      <a href="https://yourprojecturl.com">
-          <img width="1910" height="994" alt="Image" src="https://github.com/user-attachments/assets/46ba97f3-5601-4a3d-94c7-1ac9811df26d" />
+    <!-- Nail Palour Project -->
+    <td width="33%">
+      <a href="https://nail-palour.onrender.com" target="_blank">
+        <img 
+          src="https://github.com/user-attachments/assets/46ba97f3-5601-4a3d-94c7-1ac9811df26d"
+          alt="Nail Palour Booking System Screenshot"
+          width="100%"
+        />
       </a>
       <br />
-      <b>Nail Palour</b> – Short description.
+      <b>Nail Palour Booking System</b><br />
+      <small>A full Rails 8 + Hotwire booking platform for nail technicians, soon expanding to salons, yoga trainers, and coaches.</small>
     </td>
-    <td>
-      <a href="https://yourprojecturl.com">
-       <img width="1913" height="1000" alt="Image" src="https://github.com/user-attachments/assets/41155e01-0374-45f6-a7ae-32a1bcf18ab7" />
+
+    <!-- Portfolio Project -->
+    <td width="33%">
+      <a href="https://jemimah-portfolio.netlify.app" target="_blank">
+        <img 
+          src="https://github.com/user-attachments/assets/41155e01-0374-45f6-a7ae-32a1bcf18ab7"
+          alt="Portfolio Website Screenshot."
+          width="100%"
+        />
       </a>
       <br />
-      <b>Portfolio</b> – This is my personal portfolio that showcases my projects.
+      <b>Developer Portfolio</b><br />
+      <small>My personal portfolio showcasing my projects, skills, and developer journey.</small>
     </td>
-    <td>
-      <a href="https://yourprojecturl.com">
-       <img width="1913" height="1000" alt="Image" src="https://github.com/user-attachments/assets/f1bfef64-a40d-41af-8aa7-3224c38e33f7" />
+
+    <!-- Third Project -->
+    <td width="33%">
+      <a href="https://yourprojecturl.com" target="_blank](https://group-69-chepyego.vercel.app/">
+        <img 
+          src="https://github.com/user-attachments/assets/f1bfef64-a40d-41af-8aa7-3224c38e33f7"
+          alt="Project Screenshot."
+          width="100%"
+        />
       </a>
       <br />
-      <b>Project Name</b> – Short description.
+      <b>Wise Ledger</b><br />
+      <small>This was my capstone project when I was upscaling my front-end skills. It is a web application that helps with stock management and profit and loss monitoring.</small>
     </td>
   </tr>
 </table>
+
 
 <img width="1910" height="994" alt="Image" src="https://github.com/user-attachments/assets/46ba97f3-5601-4a3d-94c7-1ac9811df26d" />
 <img width="1913" height="1000" alt="Image" src="https://github.com/user-attachments/assets/41155e01-0374-45f6-a7ae-32a1bcf18ab7" />
