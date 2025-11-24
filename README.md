@@ -1,22 +1,9 @@
-<p align="center">
-  <img src="https://github.com/chepyego/chepyego/blob/main/profile.jpg" 
-       width="180" 
-       style="border-radius: 50%;" 
-       alt="Your photo"/>
-</p>
-
-<h1 align="center">✨ Hi, I'm Jemimah Chepyego</h1>
-
-<p align="center">
-  Ruby on Rails Developer • Frontend Enthusiast • Problem Solver <br/>
-  Passionate about building beautiful UIs, strong backend systems, and impactful products. <br> 
-  Navigating tech after maternity break
-</p>
 
 
-### 🚀 About Me
+Hi, I'm Jemimah Chepyego
 
-I'm a Ruby on Rails Developer who enjoys building real-world applications that solve practical problems.  
+I'm a Ruby on Rails Developer who enjoys building real-world applications that solve practical problems.<br>
+navigationg to tech after maternity break <br>
 I’m currently working on a **booking system for nail technicians**, expanding it to support yoga trainers, salons, and coaches.  
 
 I love:
@@ -75,4 +62,23 @@ Showcases my projects, skills, services, and contact form.
 </a>
 
 **What it does:**  
-This was my capstone project that I did when I was learning frontend skills. It is a web application used to manage stock and monitor profit and loss.
+This was my capstone project, which I completed while learning frontend skills. It is a web application used to manage stock and monitor profit and loss.
+
+name: GitHub Readme YouTube Cards
+on:
+  schedule:
+    # Runs every hour, on the hour
+    - cron: "0 * * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    # Allow the job to commit to the repository
+    permissions:
+      contents: write
+    # Run the GitHub Readme YouTube Cards action
+    steps:
+      - uses: DenverCoder1/github-readme-youtube-cards@main
+        with:
+          channel_id: UCipSxT7a3rn81vGLw9lqRkg
