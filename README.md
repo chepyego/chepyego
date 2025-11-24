@@ -35,7 +35,7 @@ I love:
 
 <table>
   <tr>
-    <!-- Nail Palour Project -->
+    
     <td width="33%">
       <a href="https://nail-palour.onrender.com" target="_blank">
         <img 
@@ -49,7 +49,7 @@ I love:
       <small>A full Rails 8 + Hotwire booking platform for nail technicians, soon expanding to salons, yoga trainers, and coaches.</small>
     </td>
 
-    <!-- Portfolio Project -->
+    
     <td width="33%">
       <a href="https://jemimah-portfolio.netlify.app" target="_blank">
         <img 
@@ -63,7 +63,7 @@ I love:
       <small>My personal portfolio showcasing my projects, skills, and developer journey.</small>
     </td>
 
-    <!-- Third Project -->
+    
     <td width="33%">
       <a href="https://yourprojecturl.com" target="_blank](https://group-69-chepyego.vercel.app/">
         <img 
