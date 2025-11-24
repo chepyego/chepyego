@@ -38,11 +38,19 @@ I love:
 <table>
   <tr>
     <td>
+      <a href="https://jemimah-portfolio.netlify.app" target="_blank">
+         <img width="1913" height="1000" alt="Image" src="https://github.com/user-attachments/assets/f1bfef64-a40d-41af-8aa7-3224c38e33f7" />
+      </a>
+      <br />
+       <b>Project Wise Leger</b> –This was my capstone project when I was upscaling my front-end skills. It is a web application that helps with stock management and profit and loss monitoring.
+    </td>
+    <td>
       <a href="https://nail-palour.onrender.com" target="_blank">
           <img width="1910" height="994" alt="Image" src="https://github.com/user-attachments/assets/46ba97f3-5601-4a3d-94c7-1ac9811df26d" />
       </a>
       <br />
-      <b>Nail Palour</b> –A full Rails 8  booking platform for nail technicians, soon expanding to salons, yoga trainers, and coaches..
+      <b>Nail Palour</b> <br>
+      <small>A full Rails 8  booking platform for nail technicians, soon expanding to salons, yoga trainers, and coaches</small>
     </td>
     <td>
       <a href="https://jemimah-portfolio.netlify.app" target="_blank">
@@ -53,13 +61,7 @@ I love:
       <small> This is my personal portfolio, showcasing my projects</small>
     </td>
     
-    <td>
-      <a href="https://jemimah-portfolio.netlify.app" target="_blank">
-         <img width="1913" height="1000" alt="Image" src="https://github.com/user-attachments/assets/f1bfef64-a40d-41af-8aa7-3224c38e33f7" />
-      </a>
-      <br />
-       <b>Project Wise Leger</b> –This was my capstone project when I was upscaling my front-end skills. It is a web application that helps with stock management and profit and loss monitoring.
-    </td>
+    
   </tr>
 </table>
 
