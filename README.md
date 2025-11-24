@@ -3,7 +3,8 @@
 Hi, I'm Jemimah Chepyego
 
 I'm a Ruby on Rails Developer who enjoys building real-world applications that solve practical problems.<br>
-Current Project: A booking system built for nail technicians, with a flexible architecture that allows it to be adapted for yoga trainers, salons, and personal coaches.
+I'm currently working on  A booking system built for nail technicians, with a flexible architecture that allows it to be adapted for yoga trainers, salons, and personal coaches. 
+
 I love:
 - 🛠 Building full-stack apps with Rails  
 - 🎨 Crafting responsive frontends  
@@ -44,7 +45,7 @@ I love:
       <small>A full Rails 8  booking platform for nail technicians, soon expanding to salons, yoga trainers, and coaches</small>
     </td>
     <td>
-      <a href="https://jemimah-portfolio.netlify.app" target="_blank">
+      <a href="https://group-69-chepyego.vercel.app/" target="_blank">
          <img width="1913" height="1000" alt="Image" src="https://github.com/user-attachments/assets/f1bfef64-a40d-41af-8aa7-3224c38e33f7" />
       </a>
       <br />
@@ -52,7 +53,7 @@ I love:
       <small>This was my capstone project when I was upscaling my front-end skills. It is a web application that helps with stock management and profit and loss monitoring</small>
     </td>
     <td>
-      <a href="https://jemimah-portfolio.netlify.app" target="_blank">
+      <a href="https://porfolio-three-sage.vercel.app/" target="_blank">
        <img width="1913" height="1000" alt="Image" src="https://github.com/user-attachments/assets/41155e01-0374-45f6-a7ae-32a1bcf18ab7" />
       </a>
       <br />
@@ -65,7 +66,4 @@ I love:
 </table>
 
 
-<img width="1910" height="994" alt="Image" src="https://github.com/user-attachments/assets/46ba97f3-5601-4a3d-94c7-1ac9811df26d" />
-<img width="1913" height="1000" alt="Image" src="https://github.com/user-attachments/assets/41155e01-0374-45f6-a7ae-32a1bcf18ab7" />
-<img width="1913" height="1000" alt="Image" src="https://github.com/user-attachments/assets/f1bfef64-a40d-41af-8aa7-3224c38e33f7" />
 
