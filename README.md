@@ -40,11 +40,18 @@ I love:
           <img width="1910" height="994" alt="Image" src="https://github.com/user-attachments/assets/46ba97f3-5601-4a3d-94c7-1ac9811df26d" />
       </a>
       <br />
-      <b>Project Name</b> – Short description.
+      <b>Nail Palour</b> – Short description.
     </td>
     <td>
       <a href="https://yourprojecturl.com">
        <img width="1913" height="1000" alt="Image" src="https://github.com/user-attachments/assets/41155e01-0374-45f6-a7ae-32a1bcf18ab7" />
+      </a>
+      <br />
+      <b>Portfolio</b> – This is my personal portfolio that showcases my projects.
+    </td>
+    <td>
+      <a href="https://yourprojecturl.com">
+       <img width="1913" height="1000" alt="Image" src="https://github.com/user-attachments/assets/f1bfef64-a40d-41af-8aa7-3224c38e33f7" />
       </a>
       <br />
       <b>Project Name</b> – Short description.
