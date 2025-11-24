@@ -62,9 +62,9 @@ A full-stack Ruby on Rails platform for beauty professionals (nail techs, salons
 ---
 
 ### 📫 Connect With Me
-- **LinkedIn:** (add your link)
-- **Email:** (optional)
-- **Portfolio:** (optional)
+- **LinkedIn:** https://www.linkedin.com/in/jemimah-chepyego/
+- **Email:** jchepyego@gmail.com
+- **Portfolio:** https://porfolio-three-sage.vercel.app/
 
 ---
 
