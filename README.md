@@ -52,7 +52,7 @@ I love:
       <b>Portfolio</b> – This is my personal portfolio, showcasing my projects.
     </td>
     
-    <td width="33%">
+    <td>
        <a href="https://group-69-chepyego.vercel.app/">
        <img width="1913" height="1000" alt="Image" src="https://github.com/user-attachments/assets/f1bfef64-a40d-41af-8aa7-3224c38e33f7" />
        <b>Project Wise Leger</b> –This was my capstone project when I was upscaling my front-end skills. It is a web application that helps with stock management and profit and loss monitoring.
