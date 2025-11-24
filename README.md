@@ -44,7 +44,7 @@ I love:
     </td>
     <td>
       <a href="https://yourprojecturl.com">
-        <img src=""https://github.com/user-attachments/assets/41155e01-0374-45f6-a7ae-32a1bcf18ab7 />
+       <img width="1913" height="1000" alt="Image" src="https://github.com/user-attachments/assets/41155e01-0374-45f6-a7ae-32a1bcf18ab7" />
       </a>
       <br />
       <b>Project Name</b> – Short description.
