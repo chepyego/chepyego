@@ -47,9 +47,9 @@ A full-stack Ruby on Rails platform for beauty professionals (nail techs, salons
 ## 📊 GitHub Stats  
 <div align="center">
 
-![Jemimah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jemimahchepyego&show_icons=true&theme=radical)
+![Jemimah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chepyego&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jemimahchepyego&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chepyego&layout=compact&theme=radical)
 
 </div>
 
