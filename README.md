@@ -31,50 +31,34 @@ I love:
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-### 🔥 Top Projects
+
+
+🔥 Top Projects
 
 <table>
   <tr>
-    
-    <td width="33%">
+    <td>
       <a href="https://nail-palour.onrender.com" target="_blank">
-        <img 
-          src="https://github.com/user-attachments/assets/46ba97f3-5601-4a3d-94c7-1ac9811df26d"
-          alt="Nail Palour Booking System Screenshot"
-          width="100%"
-        />
+          <img width="1910" height="994" alt="Image" src="https://github.com/user-attachments/assets/46ba97f3-5601-4a3d-94c7-1ac9811df26d" />
       </a>
       <br />
-      <b>Nail Palour Booking System</b><br />
-      <small>A full Rails 8 + Hotwire booking platform for nail technicians, soon expanding to salons, yoga trainers, and coaches.</small>
+      <b>Nail Palour</b> –A full Rails 8  booking platform for nail technicians, soon expanding to salons, yoga trainers, and coaches..
     </td>
-
-    
-    <td width="33%">
+    <td>
       <a href="https://jemimah-portfolio.netlify.app" target="_blank">
-        <img 
-          src="https://github.com/user-attachments/assets/41155e01-0374-45f6-a7ae-32a1bcf18ab7"
-          alt="Portfolio Website Screenshot."
-          width="100%"
-        />
+       <img width="1913" height="1000" alt="Image" src="https://github.com/user-attachments/assets/41155e01-0374-45f6-a7ae-32a1bcf18ab7" />
       </a>
       <br />
-      <b>Developer Portfolio</b><br />
-      <small>My personal portfolio showcasing my projects, skills, and developer journey.</small>
+      <b>Portfolio</b> – This is my personal portfolio, showcasing my projects.
     </td>
-
     
     <td width="33%">
-      <a href="https://yourprojecturl.com" target="_blank](https://group-69-chepyego.vercel.app/">
-        <img 
-          src="https://github.com/user-attachments/assets/f1bfef64-a40d-41af-8aa7-3224c38e33f7"
-          alt="Project Screenshot."
-          width="100%"
-        />
-      </a>
-      <br />
-      <b>Wise Ledger</b><br />
-      <small>This was my capstone project when I was upscaling my front-end skills. It is a web application that helps with stock management and profit and loss monitoring.</small>
+       <a href="https://group-69-chepyego.vercel.app/">
+       <img width="1913" height="1000" alt="Image" src="https://github.com/user-attachments/assets/f1bfef64-a40d-41af-8aa7-3224c38e33f7" />
+       <b>Project Wise Leger</b> –This was my capstone project when I was upscaling my front-end skills. It is a web application that helps with stock management and profit and loss monitoring.
+
+
+         
     </td>
   </tr>
 </table>
