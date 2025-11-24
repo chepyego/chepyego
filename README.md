@@ -64,21 +64,4 @@ Showcases my projects, skills, services, and contact form.
 **What it does:**  
 This was my capstone project, which I completed while learning frontend skills. It is a web application used to manage stock and monitor profit and loss.
 
-name: GitHub Readme YouTube Cards
-on:
-  schedule:
-    # Runs every hour, on the hour
-    - cron: "0 * * * *"
-  workflow_dispatch:
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    # Allow the job to commit to the repository
-    permissions:
-      contents: write
-    # Run the GitHub Readme YouTube Cards action
-    steps:
-      - uses: DenverCoder1/github-readme-youtube-cards@main
-        with:
-          channel_id: UCipSxT7a3rn81vGLw9lqRkg
