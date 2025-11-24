@@ -49,20 +49,13 @@ I love:
        <img width="1913" height="1000" alt="Image" src="https://github.com/user-attachments/assets/41155e01-0374-45f6-a7ae-32a1bcf18ab7" />
       </a>
       <br />
-      <b>Portfolio</b> – This is my personal portfolio, showcasing my projects.
+      <b>Portfolio</b> <br>
+      <small> This is my personal portfolio, showcasing my projects</small>
     </td>
     
     <td>
-       <a href="https://group-69-chepyego.vercel.app">
-       <img width="1913" height="1000" alt="Image" src="https://github.com/user-attachments/assets/f1bfef64-a40d-41af-8aa7-3224c38e33f7" />
-       <b>Project Wise Leger</b> –This was my capstone project when I was upscaling my front-end skills. It is a web application that helps with stock management and profit and loss monitoring.
-
-
-         
-    </td>
-    <td>
-      <a href="https://group-69-chepyego.vercel.app" target="_blank">
-       <img width="1913" height="1000" alt="Image" src="https://github.com/user-attachments/assets/f1bfef64-a40d-41af-8aa7-3224c38e33f7" />
+      <a href="https://jemimah-portfolio.netlify.app" target="_blank">
+         <img width="1913" height="1000" alt="Image" src="https://github.com/user-attachments/assets/f1bfef64-a40d-41af-8aa7-3224c38e33f7" />
       </a>
       <br />
        <b>Project Wise Leger</b> –This was my capstone project when I was upscaling my front-end skills. It is a web application that helps with stock management and profit and loss monitoring.
