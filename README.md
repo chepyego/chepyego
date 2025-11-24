@@ -9,7 +9,7 @@
 
 <p align="center">
   Ruby on Rails Developer • Frontend Enthusiast • Problem Solver <br/>
-  Passionate about building beautiful UIs, strong backend systems, and impactful products.  
+  Passionate about building beautiful UIs, strong backend systems, and impactful products. <br> 
   Navigating tech after maternity break
 </p>
 
