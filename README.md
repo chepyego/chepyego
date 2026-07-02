@@ -40,7 +40,7 @@ https://www.linkedin.com/in/jemimah-chepyego/
 
 ## 🚀 Remboook
 
-<a href="https://nail-palour.onrender.com" target="_blank">
+<a href="https://rembobook.com" target="_blank">
 <img src="https://github.com/user-attachments/assets/b3b471bc-249b-4d96-932d-e62376c3df02" width="900">
 </a>
 
