@@ -38,13 +38,13 @@ I love:
   <tr>
     <td>
       <a href="https://nail-palour.onrender.com" target="_blank">
-          <img width="1910" height="994" alt="Image" src="https://github.com/user-attachments/assets/46ba97f3-5601-4a3d-94c7-1ac9811df26d" />
           <img width="1917" height="1005" alt="Screenshot from 2026-07-02 16-28-23" src="https://github.com/user-attachments/assets/b3b471bc-249b-4d96-932d-e62376c3df02" />
 
       </a>
       <br />
       <b>Nail Palour</b> <br>
-      <small> booking platform built using  Rails 8 for nail technicians</small>
+      <small> Remboook is a multi-tenant SaaS application built with Ruby on Rails 8 that enables salon owners to manage their services and appointments through their own dedicated workspace. Each salon          receives a unique subdomain where clients can browse services and book appointments online.
+      </small>
     </td>
     <td>
       <a href="https://group-69-chepyego.vercel.app/" target="_blank">
