@@ -37,36 +37,36 @@ I love:
 <table>
   <tr>
     <td align="center">
-      <a href="https://nail-palour.onrender.com" target="_blank">
-        <img width="400" alt="Remboook Screenshot" src="https://github.com/user-attachments/assets/b3b471bc-249b-4d96-932d-e62376c3df02" />
-      </a>
-      <br />
-      <b>Remboook</b><br />
-      <small>
-        A multi-tenant SaaS application built with Ruby on Rails 8 that enables salon owners to manage services and appointments through their own dedicated workspace. Each salon receives a unique booking page on its own subdomain for online client bookings.
-      </small>
+        <a href="https://nail-palour.onrender.com" target="_blank">
+          <img width="400" alt="Remboook Screenshot" src="https://github.com/user-attachments/assets/b3b471bc-249b-4d96-932d-e62376c3df02" />
+        </a>
+        <br />
+        <b>Remboook</b><br />
+        <small>
+          A multi-tenant SaaS application built with Ruby on Rails 8 that enables salon owners to manage services and appointments through their own dedicated workspace. Each salon receives a unique                booking page on its own subdomain for online client bookings.
+        </small>
     </td>
 
     <td align="center">
-      <a href="https://group-69-chepyego.vercel.app/" target="_blank">
-        <img width="400" alt="Project Wise Ledger Screenshot" src="https://github.com/user-attachments/assets/f1bfef64-a40d-41af-8aa7-3224c38e33f7" />
-      </a>
-      <br />
-      <b>Project Wise Ledger</b><br />
-      <small>
-        A stock management and profit &amp; loss tracking application built as my capstone project while advancing my front-end development skills.
-      </small>
+        <a href="https://group-69-chepyego.vercel.app/" target="_blank">
+          <img width="400" alt="Project Wise Ledger Screenshot" src="https://github.com/user-attachments/assets/f1bfef64-a40d-41af-8aa7-3224c38e33f7" />
+        </a>
+        <br />
+        <b>Project Wise Ledger</b><br />
+        <small>
+          A stock management and profit and loss tracking application built as my capstone project while advancing my front-end development skills.
+        </small>
     </td>
 
     <td align="center">
-      <a href="https://porfolio-three-sage.vercel.app/" target="_blank">
-        <img width="400" alt="Portfolio Screenshot" src="https://github.com/user-attachments/assets/41155e01-0374-45f6-a7ae-32a1bcf18ab7" />
-      </a>
-      <br />
-      <b>Portfolio</b><br />
-      <small>
-        My personal portfolio showcasing my projects, skills, and experience as a software developer.
-      </small>
+        <a href="https://porfolio-three-sage.vercel.app/" target="_blank">
+          <img width="400" alt="Portfolio Screenshot" src="https://github.com/user-attachments/assets/41155e01-0374-45f6-a7ae-32a1bcf18ab7" />
+        </a>
+        <br />
+        <b>Portfolio</b><br />
+        <small>
+          My personal portfolio showcases my projects, skills, and experience as a software developer.
+        </small>
     </td>
   </tr>
 </table>
