@@ -39,6 +39,8 @@ I love:
     <td>
       <a href="https://nail-palour.onrender.com" target="_blank">
           <img width="1910" height="994" alt="Image" src="https://github.com/user-attachments/assets/46ba97f3-5601-4a3d-94c7-1ac9811df26d" />
+          <img width="1917" height="1005" alt="Screenshot from 2026-07-02 16-28-23" src="https://github.com/user-attachments/assets/b3b471bc-249b-4d96-932d-e62376c3df02" />
+
       </a>
       <br />
       <b>Nail Palour</b> <br>
