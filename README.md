@@ -43,8 +43,7 @@ I love:
       </a>
       <br />
       <b>Nail Palour</b> <br>
-      <small> Remboook is a multi-tenant SaaS application built with Ruby on Rails 8 that enables salon owners to manage their services and appointments through their own dedicated workspace. Each salon          receives a unique subdomain where clients can browse services and book appointments online.
-      </small>
+      <small> Remboook is a multi-tenant SaaS application built with Ruby on Rails 8 that enables salon owners to manage their services and appointments through their own dedicated workspace. Each salon          receives a unique subdomain where clients can browse services and book appointments online.</small>
     </td>
     <td>
       <a href="https://group-69-chepyego.vercel.app/" target="_blank">
